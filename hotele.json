@@ -1,7 +1,7 @@
 {
     "itn": {
-    "owner": "ed25519_pk1px57d53asdfdmgjd6zj86gw80yf6yxkg870se0688x6p8tyqtv3sucpr8n",
-    "witness": "ed25519_sig1pznspg8utdvhp6qe2x9mg2ylnlmk3lhx2zujnpnh02lfd3tm5nyhcexq75l2fq4y9k2p6wdwkdc6xwst69wz4rc87gcqn6wcuyr7gzc44c4qe"
+    "owner": "",
+    "witness": ""
         },
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/staking-cash/stn/e/hotelcardano-64x64.png",
@@ -11,7 +11,7 @@
             "twitter_handle": "@bigezdaddy2017",
             "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "channel/UCHM_fhYAnSpOFc3O-EleQEw",
+            "youtube_handle": "channel/UCNqWAGZywKRgW2IJcEa33Og",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
