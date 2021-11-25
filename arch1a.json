@@ -1,0 +1,7 @@
+{
+  "name": "ARCH Stakepool",
+  "description": "ARCH is the ADA stakepool of NFThbs, the CNFT platform where ART and CHARiTY stand shoulder to shoulder",
+  "ticker": "ARCH",
+  "homepage": "https://www.cardanohubs.com",
+  "extended": "https://raw.githubusercontent.com/staking-cash/stn/e/arch1a.json"
+}
