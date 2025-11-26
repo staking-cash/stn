@@ -1,3 +1,5 @@
 https://raw.githubusercontent.com/staking-cash/stn/m/media_m1a.json --> https://tinyurl.com/5n7munzp
 
+https://raw.githubusercontent.com/staking-cash/stn/m/media_m1b.json --> https://tinyurl.com/5b7vvxcs
+
 https://raw.githubusercontent.com/staking-cash/stn/e/media_e1a.json --> https://tinyurl.com/3enm6xk3
